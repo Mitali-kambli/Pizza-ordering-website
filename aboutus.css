@@ -1,0 +1,24 @@
+body 
+{
+    background-image:url('pizza00.jpg');
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+span {
+    display: block;
+    color:white;
+    font-size:100px;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+    text-shadow: 0 0 3px crimson, 0 0 5px white;
+}
+
+p {
+    display: block;
+    padding: 10px;
+    color:white;
+    font-size:22px;
+    text-align:center;
+    font-family: serif;
+}

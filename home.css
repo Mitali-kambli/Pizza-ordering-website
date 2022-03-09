@@ -1,0 +1,34 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+    font-weight: 100;
+    color: #ffffff;
+    background-image:url('pizza1.jpg');
+}
+
+.div1 {
+    font-size:  100px;
+    text-align:center;
+}
+
+.div2 {
+    margin-top: 90px;
+    font-size: 600px;
+}
+
+h2 {
+    text-shadow: 0 0 3px crimson, 0 0 5px white;
+    color:white;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+
+blockquote {
+    text-shadow: 0 0 3px crimson, 0 0 5px white;
+    color:white; 
+    font-family:courier;
+    font-size: 100px;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+

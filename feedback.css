@@ -1,0 +1,35 @@
+body {
+    background-image:url('pizza00.jpg');
+}
+
+span {
+    display: block;
+    color:white;
+    font-size:100px;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+    text-shadow: 0 0 3px crimson, 0 0 5px white;
+}
+
+div {
+    align-content: center;
+}
+
+h6 {
+    color:white;
+    font-size:120%;
+    text-align:center;
+}
+
+input {
+    width: 30%;
+    padding: 12px 20px;
+    border: 2px solid crimson;
+    border-radius: 5px;
+    }
+
+label {
+    font-family: serif;
+    font-size: 25px;
+}  
+
